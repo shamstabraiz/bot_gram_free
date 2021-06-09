@@ -24,8 +24,8 @@ form_data = {
 
 while True:
     res = requests.post('https://gramfree.today/roll',headers = headers,data=form_data )
-    print(res)
-sleep(5)
+    print(res)  
+    sleep(5)
 
 
 
