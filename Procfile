@@ -1,1 +1,1 @@
-web: Python twst.py
+web: gunicorn twst:app
