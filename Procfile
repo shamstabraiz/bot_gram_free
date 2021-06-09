@@ -1,1 +1,1 @@
-Worker : python twst.py
+web: gunicorn twst:app --log-file -
