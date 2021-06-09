@@ -1,1 +1,1 @@
-web: gunicorn twst:app --log-file -
+web: Python twst.py
