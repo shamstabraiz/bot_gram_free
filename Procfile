@@ -1,1 +1,1 @@
-web : python twst.py
+Worker : python twst.py
